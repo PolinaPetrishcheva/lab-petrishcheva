@@ -9,7 +9,7 @@
 3. Создание личной страницы.
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение странички на хостинге.
-◀️ Ссылка на отчет [jnvkjnslkmacx,ksnjv](file:///Users/polina/Desktop/index.html)
+◀️ Ссылка на отчет [jnvkjnslkmacx,ksnjv](file:///Users/polina/Desktop/index.html) bjk,
 
 
 ## ✔️ Лабораторная работа № 2
