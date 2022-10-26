@@ -20,10 +20,11 @@
 Простой список дел - приложение для того, чтобы не забыть сделать важные дела. Никакой привязки к дате или времени. Никакого хранения данных в облаке. Ваш список Вы можете включить или удалить дела, вы можете изменить порядок дел. Ничего лишнего.
 
 ### Над проектами работали:
-[Григорян Артур](https://salemnight1.github.io) (Системное программирование)
-[Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
-[Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
-[Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
+1. [Григорян Артур](https://salemnight1.github.io) (Системное программирование)
+
+2. [Балалаева Юлия](https://balalaevajulia.github.io/LabsInetTexnologii/) (Управление проектами)
+3. [Петрищева Полина](https://polinapetrishcheva.github.io/lab-petrishcheva/) (Бизнес-анализ)
+4. [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 
 
 
