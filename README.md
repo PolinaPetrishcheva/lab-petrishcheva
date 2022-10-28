@@ -40,6 +40,7 @@
 4. Произведение анализа пакета в режиме симуляции.
 
 Результат работы в формате [.ptk](https://github.com/PolinaPetrishcheva/lab-petrishcheva/blob/main/Stsenariy_dlya_CPT.pka)
+
 Результат работы в формате [.pdf](https://github.com/PolinaPetrishcheva/lab-petrishcheva/blob/main/LB3_Petrishcheva.pdf)
 
 ## ✔️ [Экзаменационные билет №10](https://github.com/stankin/inet-2022/wiki/exam10-3)
