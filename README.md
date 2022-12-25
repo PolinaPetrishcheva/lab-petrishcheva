@@ -28,7 +28,7 @@
 * [Демушкин Дмитрий](https://dmitrydemushkin1998.github.io/lab-demushkin/) (Бизнес-анализ)
 
 2. Было выбрано название команды - The Legendary Four;
-3. Было спроектировано и разработано приложение, ознакомиться с которым можно на целевой странице ([репозиторий](https://github.com/PolinaPetrishcheva/lab2/blob/main/README.md));
+3. Было спроектировано и разработано приложение, ознакомиться с которым можно на [целевой странице](https://ownc.avmenergo.ru) ([репозиторий](https://github.com/PolinaPetrishcheva/lab2/blob/main/README.md));
 4. Проект не был зарегистрирован на участие в конкурсе.
 
 
