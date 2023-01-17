@@ -49,5 +49,5 @@
 Результат работы в формате [.pdf](https://github.com/PolinaPetrishcheva/lab-petrishcheva/blob/main/LB3_Petrishcheva.pdf)
 
 ## ✔️ [Экзаменационные билет №10](https://github.com/stankin/inet-2022/wiki/exam10)
-[Мой вклад в реферат](https://github.com/stankin/inet-2022/wiki/exam10-3/_compare/6ede788ed671ccb8e5828f2d2a2992c1908cef9c...444df2805cc74421afbe5631995ae4acfcc306aa)
+[Мой вклад в реферат](https://github.com/stankin/inet-2022/wiki/_compare/f2196652011f84866613f5620a654bbb8409c547...7a36f86b4e946f4343b986d964ff74f8d917d4ca)
 
